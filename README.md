@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="motion_detector.jpg" alt="motion_detector" width="600">
+</div>
+
 # 실시간 움직임 감지 및 녹화 도구
 
 이 도구는 비디오나 웹캠에서 실시간으로 움직임을 감지하고, 감지된 움직임 주변에 박스를 표시한 비디오를 생성하는 파이썬 스크립트입니다. OpenCV를 사용하여 구현되었습니다.
